@@ -1,6 +1,6 @@
 # DevTools - Private Utility Collection
 
-A collection of Python utility scripts for automation, data analysis, media processing, and project management.
+A collection of Python utility scripts that i used for different purposes to run for automation, data analysis, media processing
 
 ## Quick Start
 
@@ -15,7 +15,7 @@ python main.py <command> [args...]
 ```
 
 Commands
-
+```
 Command Description
 merge-text Merge text files from directory
 watch Watch and sync directories
@@ -32,7 +32,7 @@ gen-data Generate sample datasets
 db-visual Visualize SQLite database structure
 excel Process Excel files
 mk-structure Create Django directory structure
-
+```
 Examples
 
 ```bash
